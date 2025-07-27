@@ -19,7 +19,7 @@ This is a beginner-friendly Python project that suggests meals based on the ingr
 
 
 **Output:**
-✅ You can make the following recipes:
+ You can make the following recipes:
 • Omelette
 • Boiled Egg
 • Fried Egg
